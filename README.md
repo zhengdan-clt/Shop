@@ -28,21 +28,15 @@
 
 
 
-## UI界面
+## 示例图片
 
-前台页面
+![img.png](img/img3.png)
 
-![img.png](../../全部文档/作业/JavaEE/javaee-06210617/code/mall/reports/07/img/img3.png)
+![img.png](img/img4.png)
 
-![img.png](../../全部文档/作业/JavaEE/javaee-06210617/code/mall/reports/07/img/img4.png)
+![img.png](img/img5.png)
 
-![img.png](../../全部文档/作业/JavaEE/javaee-06210617/code/mall/reports/07/img/img5.png)
+![img.png](img/img6.png)
 
-![img.png](../../全部文档/作业/JavaEE/javaee-06210617/code/mall/reports/07/img/img6.png)
-
-![img.png](../../全部文档/作业/JavaEE/javaee-06210617/code/mall/reports/07/img/img7.png)
-
-后台页面
-
-![img.png](img/img8.png)
+![img.png](img/img7.png)
 
